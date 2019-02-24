@@ -1,6 +1,8 @@
 # MakerDAO Governance and Risk meeting notes
 Notes from the MakerDAO Risk and Governance Committee meetings
 
+### Purpose
+The purpose of these notes is to improve accessibility to the public actions of the MakerDAO leaders and community in order to increase knowledge and participation by those on the fringes of the community.
 
 ### Previous Meetings
 
