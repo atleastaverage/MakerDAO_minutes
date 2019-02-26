@@ -21,7 +21,7 @@ The purpose of these notes is to improve accessibility to the public actions of 
 13 | | |[Soundcloud](https://soundcloud.com/makerdao/ep-13-governance-and-risk-meeting) |[Youtube](https://www.youtube.com/watch?v=rtiyNjiO1N0&list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&index=12&t=0s) | |
 12 | | |[Soundcloud](https://soundcloud.com/makerdao/governance-and-risk-meeting-ep-12) |[Youtube](https://www.youtube.com/watch?v=j_TFZnukgf4&list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&index=13&t=0s) | |
 11 | | |[Soundcloud](https://soundcloud.com/makerdao/governance-and-risk-meeting-7) |[Youtube](https://www.youtube.com/watch?v=DjGXpgxWN-A&list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&index=14&t=0s) | |
-10 | | |[Soundcloud](https://soundcloud.com/makerdao/governance-and-risk-meeting-8) | | |
+10 | | |[Soundcloud](https://soundcloud.com/makerdao/governance-and-risk-meeting-8) |[Youtube](https://www.youtube.com/watch?v=HjEmY1UG7jk&list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&index=15&t=0s) | |
 09 | | |[Soundcloud](https://soundcloud.com/makerdao/governance-and-risk-meeting-ep) |[Youtube](https://www.youtube.com/watch?v=7XTz3o-9QBo&list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&index=16&t=0s) | |
 08 | | |[Soundcloud](https://soundcloud.com/makerdao/governance-and-risk-meeting) |[Youtube](https://www.youtube.com/watch?v=bSITCcLmd0k&list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&index=17&t=0s) | |
 07 | | |[Soundcloud](https://soundcloud.com/makerdao/governance-and-risk-meeting-1) |[Youtube](https://www.youtube.com/watch?v=YpvJG8AfzOE&list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&index=18&t=0s) | |
