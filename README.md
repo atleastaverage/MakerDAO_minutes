@@ -9,7 +9,7 @@ The purpose of these notes is to improve accessibility to the public actions of 
  №  | Date                             | Conversation Notes          |[Audio](https://soundcloud.com/makerdao)| Raw Video            |Highlights Video         |External Links  |
 --- | -------------------------------- | --------------| -------------- | -------------------- | -------------------- | -----------------|
  23 | 2/21/2019| *[Conversation Notes](https://github.com/atleastaverage/MakerDAO_minutes/blob/master/risk_and_governance/2019-02-21_Call_23.md) <br> *[Complete Transcript](https://github.com/kwadraxx/transcribing-test/blob/master/README.md) |[Soundcloud](https://soundcloud.com/makerdao/ep-23-governance-and-risk-meeting)  |[Youtube](https://www.youtube.com/watch?v=KKDpN1fe0cU) | [Highlights Video 4:50](https://www.youtube.com/watch?v=inWe_lkJeGw)| [Stability Fee Increase(blog)](https://blog.makerdao.com/stability-fee-increase-february-22nd/)|
-22 | | |[Soundcloud](https://soundcloud.com/makerdao/ep-22-governance-and-risk-meeting) | | |
+22 |[2/21/2019](https://www.reddit.com/r/MakerDAO/comments/aqm1rn/meeting_governance_and_risk_with_steven_becker/) | |[Soundcloud](https://soundcloud.com/makerdao/ep-22-governance-and-risk-meeting) | | |
 21 | | |[Soundcloud](https://soundcloud.com/makerdao/ep-21-governance-and-risk-meeting) | | |
 20 | | |[Soundcloud](https://soundcloud.com/makerdao/ep-20-governance-and-risk-meeting) | | |
 19 | | |[Soundcloud](https://soundcloud.com/makerdao/ep-19-governance-and-risk-meeting) | | |
