@@ -1,8 +1,5 @@
 # MakerDAO Governance and Risk meeting notes
-Notes from the MakerDAO Risk and Governance Committee meetings
-
-### Purpose
-The purpose of these notes is to improve accessibility to the public actions of the MakerDAO leaders and community in order to increase knowledge and participation by those on the fringes of the community.
+Notes from the MakerDAO Risk and Governance Committee meetings for MakerDAO
 
 ### Most recent Meeting (All fields will not be completed)
 
@@ -37,3 +34,7 @@ The purpose of these notes is to improve accessibility to the public actions of 
 03 | | |[Soundcloud](https://soundcloud.com/makerdao/governance-and-risk-meeting-5) |[Youtube](https://www.youtube.com/watch?v=84rvx7hEI0s&list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&index=22&t=0s) | |
 02 | | |[Soundcloud](https://soundcloud.com/makerdao/governance-and-risk-meeting-6) |[Youtube](https://www.youtube.com/watch?v=NXHERiLOwMA&list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&index=23&t=0s) | |
 01 | | |[Soundcloud](https://soundcloud.com/makerdao/governance-and-risk-meeting-9) |[Youtube](https://www.youtube.com/watch?v=_W-Unj4LlzU&list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&index=24&t=0s) | |
+
+
+### Purpose
+The purpose of these notes is to improve accessibility to the public actions of the MakerDAO leaders and community in order to increase knowledge and participation by those on the fringes of the community.
