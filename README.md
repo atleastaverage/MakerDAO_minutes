@@ -5,7 +5,7 @@ Notes from the MakerDAO Risk and Governance Committee meetings for MakerDAO
 
  №  | Date                             | Conversation Notes          |[Audio](https://soundcloud.com/makerdao)| [Raw Video](https://www.youtube.com/channel/UC4jqZlzQHUhzqf5rMd5ywTw)            |Highlights Video         |External Links  |
 --- | -------------------------------- | --------------| -------------- | -------------------- | -------------------- | -----------------|
-24 | [2/28/2019](https://www.reddit.com/r/MakerDAO/comments/avnfwc/meeting_governance_and_risk_with_steven_becker/) | [Notes] | [Soundcloud] | [Youtube] | [Highlights] | [? Links] |
+24 | [2/28/2019](https://www.reddit.com/r/MakerDAO/comments/avnfwc/meeting_governance_and_risk_with_steven_becker/) | [Notes] | [Soundcloud](https://soundcloud.com/makerdao/ep-24-governance-and-risk-meeting) | [Youtube](https://www.youtube.com/watch?v=x0D39p2lNBc) | [Highlights] | [? Links] |
 
 ### Previous Meetings
 
