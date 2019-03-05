@@ -3,15 +3,15 @@ Notes from the MakerDAO Risk and Governance Committee meetings for MakerDAO
 
 ### Most recent Meeting (All fields will not be completed)
 
- №  | Date                             | Conversation Notes          |[Audio](https://soundcloud.com/makerdao)| [Raw Video](https://www.youtube.com/channel/UC4jqZlzQHUhzqf5rMd5ywTw)            |Highlights Video         |External Links  |
+ №  | Date                             | Transcript         |[Audio](https://soundcloud.com/makerdao)| [Raw Video](https://www.youtube.com/channel/UC4jqZlzQHUhzqf5rMd5ywTw)            |Highlights Video         |External Links  |
 --- | -------------------------------- | --------------| -------------- | -------------------- | -------------------- | -----------------|
-24 | [2/28/2019](https://www.reddit.com/r/MakerDAO/comments/avnfwc/meeting_governance_and_risk_with_steven_becker/) | [Notes] | [Soundcloud](https://soundcloud.com/makerdao/ep-24-governance-and-risk-meeting) | [Youtube](https://www.youtube.com/watch?v=x0D39p2lNBc) | [Highlights Video](https://www.youtube.com/watch?v=JkJFLHOlfy8) | *https://governance-dai.glitch.me/ <br> *https://dai.stablecoin.science/ |
+24 | [2/28/2019](https://www.reddit.com/r/MakerDAO/comments/avnfwc/meeting_governance_and_risk_with_steven_becker/) | [Transcript]() | [Soundcloud](https://soundcloud.com/makerdao/ep-24-governance-and-risk-meeting) | [Youtube](https://www.youtube.com/watch?v=x0D39p2lNBc) | [Highlights Video](https://www.youtube.com/watch?v=JkJFLHOlfy8) | *https://governance-dai.glitch.me/ <br> *https://dai.stablecoin.science/ |
 
 ### Previous Meetings
 
- №  | Date                             | Conversation Notes          |[Audio](https://soundcloud.com/makerdao)| [Raw Video](https://www.youtube.com/channel/UC4jqZlzQHUhzqf5rMd5ywTw)            |Highlights Video         |External Links  |
+ №  | Date                             | Transcript          |[Audio](https://soundcloud.com/makerdao)| [Raw Video](https://www.youtube.com/channel/UC4jqZlzQHUhzqf5rMd5ywTw)            |Highlights Video         |External Links  |
 --- | -------------------------------- | --------------| -------------- | -------------------- | -------------------- | -----------------|
- 23 | 2/21/2019| *[Conversation Notes](https://github.com/atleastaverage/MakerDAO_minutes/blob/master/risk_and_governance/2019-02-21_Call_23.md) <br> *[Complete Transcript](https://github.com/kwadraxx/transcribing-test/blob/master/README.md) |[Soundcloud](https://soundcloud.com/makerdao/ep-23-governance-and-risk-meeting)  |[Youtube](https://www.youtube.com/watch?v=KKDpN1fe0cU) | [Highlights Video 4:50](https://www.youtube.com/watch?v=inWe_lkJeGw)| [Stability Fee Increase(blog)](https://blog.makerdao.com/stability-fee-increase-february-22nd/)|
+ 23 | 2/21/2019| [Transcript](https://github.com/kwadraxx/transcribing-test/blob/master/README.md) |[Soundcloud](https://soundcloud.com/makerdao/ep-23-governance-and-risk-meeting)  |[Youtube](https://www.youtube.com/watch?v=KKDpN1fe0cU) | [Highlights Video 4:50](https://www.youtube.com/watch?v=inWe_lkJeGw)| [Stability Fee Increase(blog)](https://blog.makerdao.com/stability-fee-increase-february-22nd/)|
 22 |[2/14/2019](https://www.reddit.com/r/MakerDAO/comments/aqm1rn/meeting_governance_and_risk_with_steven_becker/) | |[Soundcloud](https://soundcloud.com/makerdao/ep-22-governance-and-risk-meeting) |[Youtube](https://www.youtube.com/watch?v=IGOoMKjNx0c&list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&index=3&t=0s) | |
 21 | | |[Soundcloud](https://soundcloud.com/makerdao/ep-21-governance-and-risk-meeting) |[Youtube](https://www.youtube.com/watch?v=giFhoPV-EZI&list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&index=4&t=0s) | |
 20 | | |[Soundcloud](https://soundcloud.com/makerdao/ep-20-governance-and-risk-meeting) |[Youtube](https://www.youtube.com/watch?v=gQTrKKHYF_4&list=PLLzkWCj8ywWNq5-90-Id6VPSsrk4OWVan&index=5&t=0s) | |
