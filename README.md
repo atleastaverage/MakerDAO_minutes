@@ -1,7 +1,7 @@
 # MakerDAO Governance and Risk Meeting Resources
 Notes from the MakerDAO Risk and Governance Committee meetings for MakerDAO
 
-### Most recent Meeting (All fields will not be completed)
+### Meetings pending addition (All fields will not be completed)
 
  №  | Date                             | Transcript         |[Audio](https://soundcloud.com/makerdao)| [Raw Video](https://www.youtube.com/channel/UC4jqZlzQHUhzqf5rMd5ywTw)            |Highlights Video         |External Links  |
 --- | -------------------------------- | --------------| -------------- | -------------------- | -------------------- | -----------------|
