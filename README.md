@@ -3,13 +3,13 @@ Notes from the MakerDAO Risk and Governance Committee meetings for MakerDAO
 
 ### Meetings pending addition (All fields will not be completed)
 
- №  | Date                             | Transcript         |[Audio](https://soundcloud.com/makerdao)| [Raw Video](https://www.youtube.com/channel/UC4jqZlzQHUhzqf5rMd5ywTw)            |Highlights Video         |External Links  |
+ №  | Date                             | Transcript         |[Audio](https://soundcloud.com/makerdao)| [Video](https://www.youtube.com/channel/UC4jqZlzQHUhzqf5rMd5ywTw)            |Highlights Video         |External Links  |
 --- | -------------------------------- | --------------| -------------- | -------------------- | -------------------- | -----------------|
 25|3/7/2019|||||
 
 ### Previous Meetings
 
- №  | Date                             | Transcript          |[Audio](https://soundcloud.com/makerdao)| [Raw Video](https://www.youtube.com/channel/UC4jqZlzQHUhzqf5rMd5ywTw)            |Highlights Video         |External Links  |
+ №  | Date                             | Transcript          |[Audio](https://soundcloud.com/makerdao)| [Video](https://www.youtube.com/channel/UC4jqZlzQHUhzqf5rMd5ywTw)            |Highlights Video         |External Links  |
 --- | -------------------------------- | --------------| -------------- | -------------------- | -------------------- | -----------------|
 24 | [2/28/2019](https://www.reddit.com/r/MakerDAO/comments/avnfwc/meeting_governance_and_risk_with_steven_becker/) | [Transcript]() | [Soundcloud](https://soundcloud.com/makerdao/ep-24-governance-and-risk-meeting) | [Youtube](https://www.youtube.com/watch?v=x0D39p2lNBc) | [Highlights Video](https://www.youtube.com/watch?v=JkJFLHOlfy8) | *https://governance-dai.glitch.me/ <br> *https://dai.stablecoin.science/ |
  23 | 2/21/2019| [Transcript](https://github.com/kwadraxx/transcribing-test/blob/master/README.md) |[Soundcloud](https://soundcloud.com/makerdao/ep-23-governance-and-risk-meeting)  |[Youtube](https://www.youtube.com/watch?v=KKDpN1fe0cU) | [Highlights Video](https://www.youtube.com/watch?v=inWe_lkJeGw)| [Stability Fee Increase(blog)](https://blog.makerdao.com/stability-fee-increase-february-22nd/)|
